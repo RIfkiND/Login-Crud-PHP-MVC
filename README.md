@@ -20,5 +20,3 @@ Welcome to my **CRUD Project**, a unique implementation of the CRUD (Create, Rea
 - **Architecture**: MVC (Model-View-Controller)
 
 ---
-
-## 📂 Project Structure
